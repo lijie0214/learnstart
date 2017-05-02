@@ -4,4 +4,4 @@ dddddd read finish
 eeeeee read
 fffff
 ggggg
-create new branch
+Creating a new branch is quick & simple.
